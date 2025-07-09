@@ -35,4 +35,15 @@ A curiosidade sempre foi a minha maior aliada. Tive diversas experiências que m
 Entender que invasões, sejam elas de qualquer forma no mundo virtual, precisam de contenção e precaução. Segurança é fundamental e é por isso que a escolhi.
 
 ### Fazendo a diferença 
-Entend
+Estou começando na área, mas já tenho alguns hard skills para compartilhar e ajudar organizações privadas a atingir plena segurança: 
+- Identificação de vunerabilidades
+- Documentação de incidentes
+- Sistema operacional Linux
+- Conhecimentos dos tipos de Harckers
+- Conhecimento de ataques comuns
+
+### Cursos 
+- Google Cybersecurity 2025
+- Fundamentos da Inteligência Artificial da IBM SkillsBuild
+
+> Estes são alguns detalhes sobre mim! Obrigada 🤓👋
