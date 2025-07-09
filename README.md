@@ -5,6 +5,7 @@ Sejam bem-vindos!
 > Para começar, farei com um breve resumo da minha história. Vamos lá? 👇
 
 ### Da padaria para tecnologia
+<img src="https://raw.githubusercontent.com/dy071/dy071/refs/heads/main/copilot_image_1752062185386.jpeg" alt="Transição de carreira">
 Nascida na Capital de São Paulo, com um pai padeiro e mãe salgadeira, meu destino seria o mesmo. Se não fosse minha paixão por uma área completamente diferente: a tecnologia.
 
 Por mais que amasse muito, aos 16 anos escolhi a área contábil 😮 
@@ -13,7 +14,7 @@ Por mais que amasse muito, aos 16 anos escolhi a área contábil 😮
 
 E após muitas reviravoltas da vida, aos 25 anos, sendo autônoma, finalmente pude escolher o que fazer:
 
-<span style="color:#FF0000"><h3 align="center">Especialista em Cibersegurança 🥳</h3></span> 
+<p align="center">Especialista em Cibersegurança 🥳</p>
 
 <p align="center">E cá estou eu, realizando Boot Camps e cursando Bacharelado em Tecnologia da Informação. 👇</p>
   
