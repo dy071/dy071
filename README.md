@@ -25,24 +25,24 @@ Depois de muitas reviravoltas da vida, aos 25 anos e autônoma, finalmente pude 
   
 ### 💡 Meus Valores
 - Honestidade
-- Proteção à organizações e pessoas
+- Proteção às organizações e pessoas
 - Adaptabilidade
 - Ética profissional
   
 ### 🔐 Porque Cibersegurança?
 A curiosidade sempre foi minha maior aliada.
 
-Obtive diversas experiências que me fizeram questionar as razões pelas quais leva uma pessoa a quebrar regras, leis e protocolos. 
+Obtive diversas experiências que me fizeram questionar as razões pelas quais levam uma pessoa a quebrar regras, leis e protocolos. 
 
-Com isso, percebi que uma investigação detalhada poderia sanar algumaa perguntas. E no fim, compreendi que informações são valiosas para todos.
+Com isso, percebi que uma investigação detalhada poderia sanar algumas perguntas. E no fim, compreendi que informações são valiosas para todos.
 
-Entender que invasões, em todos os aspectos, precisam de contenção e precaução. Segurança é essencial. É por isso escolhi essa profissão. 
+Entender que invasões, em todos os aspectos, precisam de contenções e precauções é essencial. É por isso escolhi essa profissão. 
 
 ### 🚀 Fazendo a diferença 
 Estou iniciando minha jornada, mas já desenvolvi algumas hard skills que podem contribuir para a segurança de empresas privadas de pequeno e médio porte: 
 - Identificação de vunerabilidades
 - Documentação de incidentes
-- Sistema operacional Linux
+- Uso do sistema operacional Linux
 - Conhecimentos dos tipos de Harckers
 - Conhecimento de ataques comuns
 
