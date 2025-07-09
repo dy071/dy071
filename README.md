@@ -17,19 +17,19 @@ Depois de muitas reviravoltas da vida, aos 25 anos e autônoma, finalmente pude 
 
 <p align="center">Hoje, estou realizando bootcamps e cursando o Bacharelado em Tecnologia da Informação. 👇</p>
   
-### Pontos em Desenvolvimento 
+### 👩‍💻 Pontos em Desenvolvimento 
 - Inglês
 - Comunicação verbal
 - Programação
 - Gerenciamento de tempo
   
-### Meus Valores
+### 💡 Meus Valores
 - Honestidade
 - Proteção à organizações e pessoas
 - Adaptabilidade
 - Ética profissional
   
-### Porque Cibersegurança?
+### 🔐 Porque Cibersegurança?
 A curiosidade sempre foi minha maior aliada.
 
 Obtive diversas experiências que me fizeram questionar as razões pelas quais leva uma pessoa a quebrar regras, leis e protocolos. 
@@ -38,7 +38,7 @@ Com isso, percebi que uma investigação detalhada poderia sanar algumaa pergunt
 
 Entender que invasões, em todos os aspectos, precisam de contenção e precaução. Segurança é essencial. É por isso escolhi essa profissão. 
 
-### Fazendo a diferença 
+### 🚀 Fazendo a diferença 
 Estou iniciando minha jornada, mas já desenvolvi algumas hard skills que podem contribuir para a segurança de empresas privadas de pequeno e médio porte: 
 - Identificação de vunerabilidades
 - Documentação de incidentes
@@ -46,7 +46,7 @@ Estou iniciando minha jornada, mas já desenvolvi algumas hard skills que podem 
 - Conhecimentos dos tipos de Harckers
 - Conhecimento de ataques comuns
 
-### Cursos 
+### 📚 Cursos 
 - Google Cybersecurity 2025
 - Fundamentos da Inteligência Artificial da IBM SkillsBuild
 
